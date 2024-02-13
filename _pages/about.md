@@ -24,19 +24,8 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Yang Qin, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://openreview.net/pdf?id=UBBeUjTja8), Neural Information Processing Systems (NeurIPS), 2023.  [code](https://github.com/QinYang79/CRCL)
+- Yang Qin, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/QinYang79/DECL)
 
 # 📖 Educations
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu China.
