@@ -16,16 +16,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current research interests mainly focus on multimodal learning and noisy correspondence.
+**Yuan Sun (孙元)** is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current interests mainly focus on:
+- **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
+- **Learning to Hash**: it transforms data from original space to Hamming space for fast searching.
+- **Mult-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
   
 # 🔥 News
 
-- *2024.2.27*, one paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2024). Thanks to all coauthors! 🎉
-- *2024.1.24*, one paper was accepted by Computers in Biology and Medicine. Congrats to Yinyu and coauthors! 🎉
-- *2023.9.22*, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023) held at the New Orleans, Dec. 10-16, 2023. Thanks to all coauthors! 🎉
-- *2023.4.28*, one paper was accepted by the IEEE 20th International Symposium on Biomedical Imaging (ISBI 2023). Congrats to Yinyu and coauthors! 🎉
-- *2022.1.25*, one paper was accepted by Knowledge-Based Systems (KBS). Congrats to Jiyao and coauthors! 🎉
-- *2022.6.30*, one paper was accepted by ACM Multimedia 2022 (ACMMM 2022). Thanks to all coauthors! 🎉
+- \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). <font color="#00dd00">New...</font><br /> 🎉
+- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. <font color="#00dd00">New...</font><br /> 🎉
+- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! <font color="#00dd00">New...</font><br /> 🎉
+- \[**Publications**\]: Sep. 12, 2023, one paper was accepted by Expert Systems With Applications (ESWA)! <font color="#00dd00">New...</font><br /> 🎉
+- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br /> 🎉
+- \[**Services**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. <font color="#00dd00">New...</font><br /> 🎉
+- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
+- \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
+- \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
+- \[**Publications**\]: Dec. 24, 2022, two papers was accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
+
 
 # 📝 Publications 
 - [*CVPR'24*] **Yang Qin**, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, Peng Hu#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  [code](https://github.com/QinYang79/RDE)
