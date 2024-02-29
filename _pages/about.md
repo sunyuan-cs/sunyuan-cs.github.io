@@ -22,7 +22,6 @@ redirect_from:
 - **Mult-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
   
 # 🔥 News
-
 - \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! 🎉
@@ -38,9 +37,9 @@ redirect_from:
 # 📝 Publications 
 # 2024
 - [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, Relaxed Energy Preserving Hashing for Image Retrieval, **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**.
+- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, Dual Self-Paced Cross-Modal Hashing, **AAAI 2024 (CCF-A类)**.
   
 # 2023
-- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, Dual Self-Paced Cross-Modal Hashing, **AAAI 2024 (CCF-A类)**.
 - [11] Yang Qin, **Yuan Sun**, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu, Cross-modal Active Complementary Learning with Self-refining Correspondence, **NeurIPS 2023 (CCF-A类)**.
 - [10] **Yuan Sun**, Dezhong Peng, Zhenwen Ren, Discrete Aggregation Hashing for Image Set Classification, **Expert Systems With Applications (中科院一区)**.
 - [9] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, Stepwise Refinement Short Hashing for Image Retrieval, **ACM MM 2023 (CCF-A类)**.
@@ -56,10 +55,7 @@ redirect_from:
 - [3] **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face Image Set Classification with Self-weighted Latent Sparse Discriminative Learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications (中科院二区)**.
 - [2] Chao Yang, Zhenwen Ren, Quansen Sun, Mingna Wu, Maowei Yin, **Yuan Sun**, [Joint Correntropy Metric Weighting and Block Diagonal Rgularizer for Robust Multiple Kernel Subspace Clustering](https://www.sciencedirect.com/science/article/pii/S0020025519304803), **Information Sciences (中科院一区)**.
 - [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
-  
-# 📖 Educations
-- *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu China.
-- *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu China.
+
 
 # 🎖 Honors and Awards
 - 四川省计算机学会年度优秀学生论文，2024.01.
@@ -72,6 +68,7 @@ redirect_from:
 - NCAA 2020最佳论文提名奖.
 - 成都市技术能手（成都市人力资源与保障局颁发），2018.12.
 - 20余项学生科技竞赛获奖.
+
 
 # 🙋 Services 
 - Program Committee Member:
