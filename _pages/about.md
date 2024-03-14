@@ -76,7 +76,8 @@ redirect_from:
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
     - IEEE Transactions on Knowledge and Data Engineering.
-    - IEEE Transactions on Neural Networks and Learning Systems. 
+    - IEEE Transactions on Neural Networks and Learning Systems.
+    - IEEE Transactions on Circuits and Systems for Video Technology.
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
