@@ -85,3 +85,5 @@ redirect_from:
     - Neural Computing and Applications.
     - CAAI Transactions on Intelligence Technology.
     - The Visual Computer.
+- Associate Editor:
+    - ICARM 2024  
