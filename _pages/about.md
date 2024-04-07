@@ -78,6 +78,7 @@ redirect_from:
     - IEEE Transactions on Knowledge and Data Engineering.
     - IEEE Transactions on Neural Networks and Learning Systems.
     - IEEE Transactions on Circuits and Systems for Video Technology.
+    - IEEE Transactions on Big Data.
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
