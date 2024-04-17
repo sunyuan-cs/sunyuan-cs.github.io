@@ -22,6 +22,7 @@ redirect_from:
 - **Multi-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 
 # 🔥 News
+- \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming and coauthors! 🎉
 - \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! 🎉
@@ -35,7 +36,9 @@ redirect_from:
 
 
 # 📝 Publications 
+(# denotes corresponding author)
 # 2024
+- [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
 - [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, Relaxed Energy Preserving Hashing for Image Retrieval, **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**.
 - [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, Dual Self-Paced Cross-Modal Hashing, **AAAI 2024 (CCF-A类)**.
   
