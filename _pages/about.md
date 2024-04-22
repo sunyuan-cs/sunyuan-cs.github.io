@@ -84,6 +84,7 @@ redirect_from:
     - IEEE Transactions on Neural Networks and Learning Systems.
     - IEEE Transactions on Circuits and Systems for Video Technology.
     - IEEE Transactions on Big Data.
+    - IEEE Transactions on Computational Social Systems.
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
@@ -92,4 +93,6 @@ redirect_from:
     - CAAI Transactions on Intelligence Technology.
     - The Visual Computer.
 - Associate Editor:
-    - ICARM 2024  
+    - ICARM 2024
+- Workshop Chair:
+    - CVDL 2024.
