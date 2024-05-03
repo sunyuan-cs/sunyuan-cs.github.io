@@ -41,7 +41,7 @@ redirect_from:
 # 2024
 - [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, Dual Self-Paced Hashing for Image Retrieval, **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
 - [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
-- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, Relaxed Energy Preserving Hashing for Image Retrieval, **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**.
+- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, Relaxed Energy Preserving Hashing for Image Retrieval, **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
 - [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, Dual Self-Paced Cross-Modal Hashing, **AAAI 2024 (CCF-A类)**.
   
 # 2023
