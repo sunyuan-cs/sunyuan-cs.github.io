@@ -97,3 +97,9 @@ redirect_from:
     - ICARM 2024
 - Workshop Chair:
     - CVDL 2024.
+
+# 📖 Collaborators
+- Kiaming Liu, master student (2022~2025). **Achievements:** IJCAI'24.
+- Ruitao Pu, master student (2022~2025).
+- Shilin Xu, master student (2024~2027).
+- Ziheng Wang, master student (2024~2027).
