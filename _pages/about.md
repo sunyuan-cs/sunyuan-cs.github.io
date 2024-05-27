@@ -77,7 +77,7 @@ redirect_from:
 
 # 🙋 Services 
 - Program Committee Member:
-    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, CVPR Workshop 2024, ECCV 2024, PRCV 2024, NIPS Workshop 2024.
+    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, CVPR Workshop 2024, ECCV 2024, PRCV 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
     - IEEE Transactions on Knowledge and Data Engineering.
