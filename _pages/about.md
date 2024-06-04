@@ -39,15 +39,15 @@ redirect_from:
 # 📝 Publications 
 (# denotes corresponding author)
 # 2024
-- [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, Dual Self-Paced Hashing for Image Retrieval, **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
+- [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
 - [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
-- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, Relaxed Energy Preserving Hashing for Image Retrieval, **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
-- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, Dual Self-Paced Cross-Modal Hashing, **AAAI 2024 (CCF-A类)**.
+- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
+- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, [Dual Self-Paced Cross-Modal Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/29441), **AAAI 2024 (CCF-A类)**.
   
 # 2023
-- [11] Yang Qin, **Yuan Sun**, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu, Cross-modal Active Complementary Learning with Self-refining Correspondence, **NeurIPS 2023 (CCF-A类)**. [Code](https://github.com/QinYang79/CRCL)
-- [10] **Yuan Sun**, Dezhong Peng, Zhenwen Ren, Discrete Aggregation Hashing for Image Set Classification, **Expert Systems With Applications (中科院一区)**.
-- [9] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, Stepwise Refinement Short Hashing for Image Retrieval, **ACM MM 2023 (CCF-A类)**.
+- [11] Yang Qin, **Yuan Sun**, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e580cdd54fe38ca9a5b8ea6fe99bb44-Paper-Conference.pdf), **NeurIPS 2023 (CCF-A类)**. [Code](https://github.com/QinYang79/CRCL)
+- [10] **Yuan Sun**, Dezhong Peng, Zhenwen Ren, [Discrete Aggregation Hashing for Image Set Classification](https://www.sciencedirect.com/science/article/pii/S0957417423021176), **Expert Systems With Applications (中科院一区)**.
+- [9] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, [Stepwise Refinement Short Hashing for Image Retrieval](https://openreview.net/pdf?id=9ol1HoBfir), **ACM MM 2023 (CCF-A类)**.
 - [8] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, **Yuan Sun**, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523002579), **Information Fusion (中科院一区)**.
 - [7] **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10119165), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/HCCH)
 - [6] **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10061433), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
