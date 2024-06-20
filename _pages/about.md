@@ -81,6 +81,7 @@ redirect_from:
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, ECCV 2024, PRCV 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
+    - IEEE Transactions on Image Processing.
     - IEEE Transactions on Knowledge and Data Engineering.
     - IEEE Transactions on Neural Networks and Learning Systems.
     - IEEE Transactions on Circuits and Systems for Video Technology.
