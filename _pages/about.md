@@ -22,6 +22,7 @@ redirect_from:
 - **Multi-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 
 # 🔥 News
+- \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
 - \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming and coauthors! 🎉
 - \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
@@ -39,6 +40,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes corresponding author)
 # 2024
+- [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, Robust Multi-View Clustering with Noisy Correspondence, **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. 
 - [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
 - [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
 - [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
@@ -87,6 +89,7 @@ redirect_from:
     - IEEE Transactions on Circuits and Systems for Video Technology.
     - IEEE Transactions on Big Data.
     - IEEE Transactions on Computational Social Systems.
+    - IEEE Signal Processing Letters.
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
