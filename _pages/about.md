@@ -20,7 +20,7 @@ redirect_from:
 - **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
 - **Cross-modal Retrieval**: it uses the information of one modal to retrieve the relevant content of another modal (such as text, image, audio, video, etc.).
 - **Multi-view Clustering/Classification**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
-- **AI4S**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
+- **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
