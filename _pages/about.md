@@ -18,8 +18,9 @@ redirect_from:
 
 **Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current interests mainly focus on:
 - **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
-- **Learning to Hash**: it transforms data from original space to Hamming space for fast searching.
-- **Multi-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
+- **Cross-modal Retrieval**: it uses the information of one modal to retrieve the relevant content of another modal (such as text, image, audio, video, etc.).
+- **Multi-view Clustering/Classification**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
+- **AI4S**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
@@ -34,11 +35,11 @@ redirect_from:
 - \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
-- \[**Publications**\]: Dec. 24, 2022, two papers was accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
+- \[**Publications**\]: Dec. 24, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
 
 
 # 📝 Publications 
-(# denotes corresponding author)
+(# denotes the corresponding author)
 # 2024
 - [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, Robust Multi-View Clustering with Noisy Correspondence, **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. 
 - [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
