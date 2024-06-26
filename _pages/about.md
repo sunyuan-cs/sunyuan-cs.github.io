@@ -23,6 +23,7 @@ redirect_from:
 - **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
+- \[**Publications**\]: Jun. 26, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
 - \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming and coauthors! 🎉
@@ -41,6 +42,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
+- [17] Yongxiang Li, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. 
 - [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, Robust Multi-View Clustering with Noisy Correspondence, **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. 
 - [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
 - [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
