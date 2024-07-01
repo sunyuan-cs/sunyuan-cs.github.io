@@ -92,6 +92,7 @@ redirect_from:
     - IEEE Transactions on Circuits and Systems for Video Technology.
     - IEEE Transactions on Big Data.
     - IEEE Transactions on Computational Social Systems.
+    - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM).
     - IEEE Signal Processing Letters.
     - Neural Networks.
     - Information Fusion.
