@@ -43,7 +43,7 @@ redirect_from:
 (# denotes the corresponding author)
 # 2024
 - [17] Yongxiang Li, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. 
-- [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, Robust Multi-View Clustering with Noisy Correspondence, **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. 
+- [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 - [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
 - [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
 - [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
