@@ -23,10 +23,11 @@ redirect_from:
 - **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
-- \[**Publications**\]: Jun. 26, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
+- \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
+- \[**Publications**\]: Jun. 26, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
 - \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
-- \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming and coauthors! 🎉
+- \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming (Master) and coauthors! 🎉
 - \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! 🎉
