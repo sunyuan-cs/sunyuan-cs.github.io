@@ -19,7 +19,7 @@ redirect_from:
 **Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current interests mainly focus on:
 - **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
 - **Cross-modal Retrieval**: it uses the information of one modal to retrieve the relevant content of another modal (such as text, image, audio, video, etc.).
-- **Multi-view Clustering/Classification**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
+- **Multi-view Learning**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
 - **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
@@ -72,7 +72,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- 2024年四川省科技创新（苗子工程）培育项目，主持，2024.07.
+- 四川省科技创新（苗子工程）培育项目，主持，2024.07.
 - 四川省计算机学会年度优秀学生论文，2024.01.
 - 中国自动化学会科技进步奖二等奖，2023.11.
 - 国家奖学金，2023.09.
