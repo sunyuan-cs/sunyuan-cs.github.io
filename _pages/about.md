@@ -23,6 +23,7 @@ redirect_from:
 - **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
 # 🔥 News
+- \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
 - \[**Publications**\]: Jun. 26, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
@@ -43,6 +44,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
+- [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning, IEEE Transactions on Multimedia (中科院一区).
 - [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Robust Contrastive Cross-modal Hashing with Noisy Labels, **ACM MM 2024 (CCF-A类)**. 
 - [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. 
 - [18] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, Distribution Consistency Guided Hashing for Cross-Modal Retrieval, **ACM MM 2024 (CCF-A类)**. 
