@@ -45,8 +45,8 @@ redirect_from:
 (# denotes the corresponding author)
 # 2024
 - [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning, IEEE Transactions on Multimedia (中科院一区).
-- [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Robust Contrastive Cross-modal Hashing with Noisy Labels, **ACM MM 2024 (CCF-A类)**. 
-- [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. 
+- [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Robust Contrastive Cross-modal Hashing with Noisy Labels, **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/LonganWANG-cs/NRCH)
+- [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
 - [18] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, Distribution Consistency Guided Hashing for Cross-Modal Retrieval, **ACM MM 2024 (CCF-A类)**. 
 - [17] Yongxiang Li, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. 
 - [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
