@@ -22,6 +22,7 @@ redirect_from:
 - **Multi-view Learning**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
 - **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
 
+
 # 🔥 News
 - \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
@@ -71,20 +72,6 @@ redirect_from:
 - [3] **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face Image Set Classification with Self-weighted Latent Sparse Discriminative Learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications (中科院二区)**.
 - [2] Chao Yang, Zhenwen Ren, Quansen Sun, Mingna Wu, Maowei Yin, **Yuan Sun**, [Joint Correntropy Metric Weighting and Block Diagonal Rgularizer for Robust Multiple Kernel Subspace Clustering](https://www.sciencedirect.com/science/article/pii/S0020025519304803), **Information Sciences (中科院一区)**.
 - [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
-
-
-# 🎖 Honors and Awards
-- 四川省科技创新（苗子工程）培育项目，主持，2024.07.
-- 四川省计算机学会年度优秀学生论文，2024.01.
-- 中国自动化学会科技进步奖二等奖，2023.11.
-- 国家奖学金，2023.09.
-- 四川大学优秀研究生，2023.09.
-- 博士一等学业奖学金，2023.09-2025.06.
-- 博士创新奖学金，2023.03.
-- 校级优秀硕士毕业论文，2021.06.
-- NCAA 2020最佳论文提名奖.
-- 成都市技术能手（成都市人力资源与保障局颁发），2018.12.
-- 互联网+、挑战杯等20余项国家级、省级竞赛获奖.
 
 
 # 🙋 Services 
