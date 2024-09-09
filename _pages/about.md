@@ -73,7 +73,7 @@ redirect_from:
 - [2] Chao Yang, Zhenwen Ren, Quansen Sun, Mingna Wu, Maowei Yin, **Yuan Sun**, [Joint Correntropy Metric Weighting and Block Diagonal Rgularizer for Robust Multiple Kernel Subspace Clustering](https://www.sciencedirect.com/science/article/pii/S0020025519304803), **Information Sciences (中科院一区)**.
 - [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
 
-🎖 Honors and Awards
+# 🎖 Honors and Awards
 - 四川省计算机学会年度优秀学生论文，2024.01.
 - 中国自动化学会科技进步奖二等奖，2023.11.
 - 国家奖学金，2023.09.
