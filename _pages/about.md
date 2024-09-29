@@ -46,7 +46,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
-- [22] Wenyuan Wu, Siyuan Duan, **Yuan Sun**, Yang Yu, Dong Liu, Dezhong Peng, Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems, **Neural Networks (中科院一区)**. [Code](https://github.com/siyuancncd/FPINNs)
+- [22] Wenyuan Wu, Siyuan Duan, **Yuan Sun#**, Yang Yu, Dong Liu#, Dezhong Peng, Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems, **Neural Networks (中科院一区)**. [Code](https://github.com/siyuancncd/FPINNs)
 - [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning, **IEEE Transactions on Multimedia (中科院一区)**.
 - [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Robust Contrastive Cross-modal Hashing with Noisy Labels, **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/LonganWANG-cs/NRCH)
 - [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
