@@ -76,6 +76,7 @@ redirect_from:
 - [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
 
 # 🎖 Honors and Awards
+- 四川大学优秀研究生，2024.10.
 - 四川省计算机学会年度优秀学生论文，2024.01.
 - 中国自动化学会科技进步奖二等奖，2023.11.
 - 国家奖学金，2023.09.
