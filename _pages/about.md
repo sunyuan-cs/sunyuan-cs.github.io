@@ -78,6 +78,7 @@ redirect_from:
 - [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
 
 # 🎖 Honors and Awards
+- 国家奖学金，2024.11.
 - 四川大学优秀研究生，2024.10.
 - 四川省计算机学会年度优秀学生论文，2024.01.
 - 中国自动化学会科技进步奖二等奖，2023.11.
@@ -92,7 +93,7 @@ redirect_from:
 
 # 🙋 Services 
 - Program Committee Member:
-    - AAAI 2025, ICLR 2025, AISTATS 2025.
+    - AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025.
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, ECCV 2024, PRCV 2024, NeurIPS 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
