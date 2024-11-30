@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee （SPC) for the IJCAI 2025.
 - \[**Publications**\]: Nov. 5, 2024, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Sep. 18, 2024, one paper was accepted by Neural Networks! Congrats to Wenyuan and Siyuan! 🎉
 - \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! Congrats to Xingfeng! 🎉
@@ -92,11 +93,19 @@ redirect_from:
 - 互联网+、挑战杯等20余项国家级、省级竞赛获奖.
 
 # 🙋 Services 
-- Program Committee Member:
+- Conferences:
+  - SPC:
+    - IJCAI 2025. 
+  - Reviewer: 
     - AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025.
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, ECCV 2024, PRCV 2024, NeurIPS 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
-- Journal Reviewer:
+  - Associate Editor:
+    - ICARM 2024
+  - Workshop Chair:
+    - CVDL 2024.
+
+- Journals:
     - IEEE Transactions on Image Processing.
     - IEEE Transactions on Knowledge and Data Engineering.
     - IEEE Transactions on Neural Networks and Learning Systems.
@@ -114,8 +123,5 @@ redirect_from:
     - CAAI Transactions on Intelligence Technology.
     - Data Science and Management.
     - The Visual Computer.
-- Associate Editor:
-    - ICARM 2024
-- Workshop Chair:
-    - CVDL 2024.
+
 
