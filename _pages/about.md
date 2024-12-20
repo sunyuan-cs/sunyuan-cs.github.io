@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). My research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, I’ve been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
+**Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). My research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, I’ve been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
 - **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
 - **Cross-modal Retrieval**: it uses the information of one modal to retrieve the relevant content of another modal (such as text, image, audio, video, etc.).
 - **Multi-modal Learning**: it integrates the supplementary and consistent information of multiple modalities for clustering or classification tasks.
