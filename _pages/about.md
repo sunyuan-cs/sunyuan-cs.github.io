@@ -52,7 +52,7 @@ redirect_from:
 - [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
 - [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
 - [25] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
-- [24] Zhongwen Wang, Xingfeng Li, Yinghui Sun, Quansen Sun, **Yuan Sun**, Han Ling, Jian Dai, Zhenwen Ren, TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering, **AAAI 2025 (CCF-A类)**.
+- [24] Zhongwen Wang, Xingfeng Li, Yinghui Sun, Quansen Sun, **Yuan Sun**, Han Ling, Jian Dai, Zhenwen Ren, TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**. [Code](https://github.com/jankin-wang/TPCH)
 # 2024
 - [23] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching](https://www.sciencedirect.com/science/article/pii/S1566253524005645?dgcid=coauthor), **Information Fusion (中科院一区)**.
 - [22] Wenyuan Wu, Siyuan Duan, **Yuan Sun**, Yang Yu, Dong Liu, Dezhong Peng, [Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749), **Neural Networks (中科院一区)**. [Code](https://github.com/siyuancncd/FPINNs)
