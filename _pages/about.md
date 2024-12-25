@@ -49,14 +49,14 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**.
-- [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**.
-- [25] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**.
+- [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
+- [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
+- [25] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
 - [24] Zhongwen Wang, Xingfeng Li, Yinghui Sun, Quansen Sun, **Yuan Sun**, Han Ling, Jian Dai, Zhenwen Ren, TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering, **AAAI 2025 (CCF-A类)**.
 # 2024
 - [23] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching](https://www.sciencedirect.com/science/article/pii/S1566253524005645?dgcid=coauthor), **Information Fusion (中科院一区)**.
 - [22] Wenyuan Wu, Siyuan Duan, **Yuan Sun**, Yang Yu, Dong Liu, Dezhong Peng, [Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749), **Neural Networks (中科院一区)**. [Code](https://github.com/siyuancncd/FPINNs)
-- [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning](https://ieeexplore.ieee.org/document/10812848), **IEEE Transactions on Multimedia (中科院一区)**.[Code](https://github.com/lee-xingfeng/PBDAL)
+- [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning](https://ieeexplore.ieee.org/document/10812848), **IEEE Transactions on Multimedia (中科院一区)**. [Code](https://github.com/lee-xingfeng/PBDAL)
 - [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, [Robust Contrastive Cross-modal Hashing with Noisy Labels](https://dl.acm.org/doi/abs/10.1145/3664647.3680564), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/LonganWANG-cs/NRCH)
 - [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681397), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
 - [18] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, [Distribution Consistency Guided Hashing for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680633), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-MM-DCGH)
