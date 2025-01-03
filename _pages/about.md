@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
 - \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee （SPC) for the IJCAI 2025.
 - \[**Publications**\]: Nov. 5, 2024, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
@@ -49,6 +50,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [28] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
 - [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
 - [25] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
