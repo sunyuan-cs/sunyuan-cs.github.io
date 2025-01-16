@@ -24,28 +24,21 @@ redirect_from:
 
 
 # 🔥 News
-- \[**Publications**\]: Jan. 15, 2025, one paper was accepted by IEEE Transactions on Information Forensics and Security (TIFS)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
 - \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee （SPC) for the IJCAI 2025.
-- \[**Publications**\]: Nov. 5, 2024, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
-- \[**Publications**\]: Sep. 18, 2024, one paper was accepted by Neural Networks! Congrats to Wenyuan and Siyuan! 🎉
-- \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
-- \[**Publications**\]: Jun. 26, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
 - \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming (Master) and coauthors! 🎉
 - \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
-- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! 🎉
 - \[**Publications**\]: Sep. 12, 2023, one paper was accepted by Expert Systems With Applications (ESWA)! 🎉
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! 🎉
 - \[**Services**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. 🎉
-- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
 - \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
-- \[**Publications**\]: Dec. 24, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
+- \[**Publications**\]: Dec. 24, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
 
 
 # 📝 Publications 
