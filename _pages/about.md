@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Jan. 15, 2025, one paper was accepted by IEEE Transactions on Information Forensics and Security (TIFS)! Congrats to Yongxiang! 🎉
 - \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
 - \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee （SPC) for the IJCAI 2025.
@@ -50,6 +51,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [29] Yongxiang Li, **Yuan Sun**, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu, Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, **IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A类)**.
 - [28] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/hl-yuan/PMIMC).
 - [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
 - [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
