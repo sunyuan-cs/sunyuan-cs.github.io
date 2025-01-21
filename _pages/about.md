@@ -22,7 +22,7 @@ redirect_from:
 - **Multi-modal Learning**: it integrates the supplementary and consistent information of multiple modalities for clustering or classification tasks.
 - **AI for PDEs**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
   
-<font color="red"> If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail (sunyuan_work@163.com) or Wechat (ID: suny_scu) </font> 
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through <font color="red"> e-mail (sunyuan_work@163.com) or Wechat (ID: suny_scu) </font> 
 
 
 # 🔥 News
