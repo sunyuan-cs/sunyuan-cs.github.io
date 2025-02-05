@@ -26,9 +26,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Services**\]: Feb. 5, 2025, I have been invited to be an Area Chair（AC) for the ACL 2025. 🎉
 - \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
-- \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee （SPC) for the IJCAI 2025.
+- \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee（SPC) for the IJCAI 2025. 🎉
 - \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
 - \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
 - \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
@@ -100,6 +101,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🙋 Services 
 - Conferences:
+  - AC:
+    - ACL 2025.
   - SPC:
     - IJCAI 2025. 
   - Reviewer: 
