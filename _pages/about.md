@@ -102,10 +102,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🙋 Services 
 - Conferences:
-  - AC:
-    - ACL 2025.
-  - SPC:
-    - IJCAI 2025. 
+  - AC/SPC:
+    - ACL 2025, IJCAI 2025.
   - Reviewer: 
     - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025.
     - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
