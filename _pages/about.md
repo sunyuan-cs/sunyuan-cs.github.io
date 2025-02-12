@@ -47,6 +47,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [30] Dongliang Wang, Chuang Huang, Hao Pan, **Yuan Sun**, Jian Dai, Yanan Li, Zhenwen Ren, AMLCA: Additive Multi-layer Convolution-guided Cross-attention Network for Visible and Infrared Image Fusion, **Pattern Recognition (PR) (中科院一区)**. [Code](https://github.com/Wangdl2000/AMLCA-code)
 - [29] Yongxiang Li, **Yuan Sun**, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu, Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, **IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A类)**.
 - [28] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/hl-yuan/PMIMC)
 - [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
