@@ -26,6 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: Feb. 27, 2025, two papers were accepted by the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2025)! Congrats to Siyuan and coauthors! 🎉
 - \[**Services**\]: Feb. 5, 2025, I have been invited to be an Area Chair（AC) for the ACL 2025. 🎉
 - \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
@@ -47,8 +48,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- [32] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
-- [31] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Zheng Liu, Xiaomin Song, Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+- [32] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, **CVPR 2025 (CCF-A类)**.
+- [31] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Zheng Liu, Xiaomin Song, Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, **CVPR 2025 (CCF-A类)**.
 - [30] Dongliang Wang, Chuang Huang, Hao Pan, **Yuan Sun**, Jian Dai, Yanan Li, Zhenwen Ren, AMLCA: Additive Multi-layer Convolution-guided Cross-attention Network for Visible and Infrared Image Fusion, **Pattern Recognition (PR) (中科院一区)**. [Code](https://github.com/Wangdl2000/AMLCA-code)
 - [29] Yongxiang Li, **Yuan Sun**, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu, Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, **IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A类)**.
 - [28] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/hl-yuan/PMIMC)
