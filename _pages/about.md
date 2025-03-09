@@ -126,6 +126,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - ACM Transactions on Multimedia Computing, Communications and Applications.
     - ACM Transactions on Information Systems.
     - IEEE Signal Processing Letters.
+    - Pattern Recognition.
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
