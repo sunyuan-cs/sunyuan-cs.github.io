@@ -110,7 +110,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   - AC/SPC:
     - ACL 2025, IJCAI 2025.
   - Reviewer: 
-    - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025.
+    - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025, ICCV 2025, ACM MM 2025.
     - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
   - Associate Editor:
@@ -127,6 +127,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - IEEE Transactions on Computational Social Systems.
     - ACM Transactions on Multimedia Computing, Communications and Applications.
     - ACM Transactions on Information Systems.
+    - IEEE Journal of Selected Topics in Signal Processing
     - IEEE Signal Processing Letters.
     - Pattern Recognition.
     - Neural Networks.
