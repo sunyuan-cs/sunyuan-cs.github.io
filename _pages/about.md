@@ -50,6 +50,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [37] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Dezhong Peng, **Yuan Sun#**, Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks, IJCAI 2025 (CCF-A类).
+- [36] Chao Su, **Yuan Sun#**, Ruitao Pu, Run Ye, Dezhong Peng#, Xi Peng, Xu Wang, Confidence-Aware Disambiguation for Cross-Modal Hashing with Partial Labels, IJCAI 2025 (CCF-A类).
+- [35] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, IJCAI 2025 (CCF-A类).
+- [34] Jiawei Peng, Zhongwen Wang, **Yuan Sun**, Jian Dai, Xingfeng Li, Zhenwen Ren, Energy-preserving Shifted Bipartite Graph Learning for Unpaired Large-scale Multi-view Clustering, IJCAI 2025 (CCF-A类).
 - [33] Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks (中科院二区)**.
 - [32] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, **CVPR 2025 (CCF-A类)**.
 - [31] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Zheng Liu, Xiaomin Song, Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, **CVPR 2025 (CCF-A类)**.
