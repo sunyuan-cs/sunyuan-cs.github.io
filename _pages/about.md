@@ -43,7 +43,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - \[**Services**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. 🎉
 - \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
-- \[**Publications**\]: Dec. 24, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
+- \[**Publications**\]: Jun. 30, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
 
 
 # 📝 Publications 
