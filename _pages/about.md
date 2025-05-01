@@ -26,6 +26,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
+- \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
 - \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! Congrats to Xingfeng and coauthors! 🎉
 - \[**Publications**\]: Feb. 27, 2025, two papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2025)! Congrats to Siyuan and coauthors! 🎉
 - \[**Services**\]: Feb. 5, 2025, I have been invited to be an Area Chair（AC) for the ACL 2025. 🎉
