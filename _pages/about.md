@@ -51,6 +51,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [39] Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
+- [38] Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, SHE: Streaming-media Hashing Retrieval, **ICML 2025 (CCF-A类)**.
+- [37] Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, Deep Streaming View Clustering, **ICML 2025 (CCF-A类)**.
+- [36] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu#, Deep Fuzzy Multi-view Learning for Reliable Classification, **ICML 2025 (CCF-A类)**.
+- [35] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Dezhong Peng#, **Yuan Sun#**, Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks, **IJCAI 2025 (CCF-A类)**.
+- [34] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, **IJCAI 2025 (CCF-A类)**.
 - [33] Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks (中科院二区)**.
 - [32] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, **CVPR 2025 (CCF-A类)**.
 - [31] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Zheng Liu, Xiaomin Song, Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, **CVPR 2025 (CCF-A类)**.
