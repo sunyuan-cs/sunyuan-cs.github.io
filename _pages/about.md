@@ -46,7 +46,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - \[**Publications**\]: Jun. 30, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
 
 
-# 📝 Publications 
+# 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2025
 - Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
