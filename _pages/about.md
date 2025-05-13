@@ -51,52 +51,38 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- [39] Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
-- [38] Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, SHE: Streaming-media Hashing Retrieval, **ICML 2025 (CCF-A类)**.
-- [37] Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, Deep Streaming View Clustering, **ICML 2025 (CCF-A类)**.
-- [36] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu#, Deep Fuzzy Multi-view Learning for Reliable Classification, **ICML 2025 (CCF-A类)**.
-- [35] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks, **IJCAI 2025 (CCF-A类)**.
-- [34] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, **IJCAI 2025 (CCF-A类)**.
-- [33] Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks (中科院二区)**.
-- [32] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, **CVPR 2025 (CCF-A类)**.
-- [31] Siyuan Duan, **Yuan Sun**, Dezhong Peng, Zheng Liu, Xiaomin Song, Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, **CVPR 2025 (CCF-A类)**.
-- [30] Dongliang Wang, Chuang Huang, Hao Pan, **Yuan Sun**, Jian Dai, Yanan Li, Zhenwen Ren, AMLCA: Additive Multi-layer Convolution-guided Cross-attention Network for Visible and Infrared Image Fusion, **Pattern Recognition (PR) (中科院一区)**. [Code](https://github.com/Wangdl2000/AMLCA-code)
-- [29] Yongxiang Li, **Yuan Sun**, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu, Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, **IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A类)**.
-- [28] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/hl-yuan/PMIMC)
-- [27] Yuan Li, Liangli Zhen, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/blackant-dev/DECH)
-- [26] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
-- [25] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
-- [24] Zhongwen Wang, Xingfeng Li, Yinghui Sun, Quansen Sun, **Yuan Sun**, Han Ling, Jian Dai, Zhenwen Ren, TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**. [Code](https://github.com/jankin-wang/TPCH)
+- Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
+- Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, SHE: Streaming-media Hashing Retrieval, **ICML 2025 (CCF-A类)**.
+- Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, Deep Streaming View Clustering, **ICML 2025 (CCF-A类)**.
+- Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks, **IJCAI 2025 (CCF-A类)**.
+- Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, **IJCAI 2025 (CCF-A类)**.
+- Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks (中科院二区)**.
+- **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, **CVPR 2025 (CCF-A类)**.
+- Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, Prototype Matching Learning for Incomplete Multi-view Clustering, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/hl-yuan/PMIMC)
+- Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
+- Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
 # 2024
-- [23] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching](https://www.sciencedirect.com/science/article/pii/S1566253524005645?dgcid=coauthor), **Information Fusion (中科院一区)**.
-- [22] Wenyuan Wu, Siyuan Duan, **Yuan Sun**, Yang Yu, Dong Liu, Dezhong Peng, [Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749), **Neural Networks (中科院一区)**. [Code](https://github.com/siyuancncd/FPINNs)
-- [21] Xingfeng Li, Yuangang Pan, **Yuan Sun**, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning](https://ieeexplore.ieee.org/document/10812848), **IEEE Transactions on Multimedia (中科院一区)**. [Code](https://github.com/lee-xingfeng/PBDAL)
-- [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, [Robust Contrastive Cross-modal Hashing with Noisy Labels](https://dl.acm.org/doi/abs/10.1145/3664647.3680564), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/LonganWANG-cs/NRCH)
-- [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681397), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
-- [18] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, [Distribution Consistency Guided Hashing for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680633), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-MM-DCGH)
-- [17] Yongxiang Li, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, [RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10653726), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. [Code](https://github.com/LYXRhythm/RoMo)
-- [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-- [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
-- [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval](https://www.ijcai.org/proceedings/2024/505), **IJCAI 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/24-IJCAI-DSFH)
-- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
-- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, [Dual Self-Paced Cross-Modal Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/29441), **AAAI 2024 (CCF-A类)**.
+- Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681397), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
+- **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, [Distribution Consistency Guided Hashing for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680633), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-MM-DCGH)
+- **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
+- **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
+- Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval](https://www.ijcai.org/proceedings/2024/505), **IJCAI 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/24-IJCAI-DSFH)
+- **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
+- **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, [Dual Self-Paced Cross-Modal Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/29441), **AAAI 2024 (CCF-A类)**.
   
 # 2023
-- [11] Yang Qin, **Yuan Sun**, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e580cdd54fe38ca9a5b8ea6fe99bb44-Paper-Conference.pdf), **NeurIPS 2023 (CCF-A类)**. [Code](https://github.com/QinYang79/CRCL)
-- [10] **Yuan Sun**, Dezhong Peng, Zhenwen Ren, [Discrete Aggregation Hashing for Image Set Classification](https://www.sciencedirect.com/science/article/pii/S0957417423021176), **Expert Systems With Applications (中科院一区)**.
-- [9] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, [Stepwise Refinement Short Hashing for Image Retrieval](https://openreview.net/pdf?id=9ol1HoBfir), **ACM MM 2023 (CCF-A类)**.
-- [8] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, **Yuan Sun**, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523002579), **Information Fusion (中科院一区)**.
-- [7] **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10119165), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. **(ESI Highly Cited Paper)**. [Code](https://github.com/sunyuan-cs/HCCH)  
-- [6] **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10061433), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
+- **Yuan Sun**, Dezhong Peng, Zhenwen Ren, [Discrete Aggregation Hashing for Image Set Classification](https://www.sciencedirect.com/science/article/pii/S0957417423021176), **Expert Systems With Applications (中科院一区)**.
+- **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, [Stepwise Refinement Short Hashing for Image Retrieval](https://openreview.net/pdf?id=9ol1HoBfir), **ACM MM 2023 (CCF-A类)**.
+- **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10119165), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. **(ESI Highly Cited Paper)**. [Code](https://github.com/sunyuan-cs/HCCH)  
+- **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10061433), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 
 # 2022
-- [5] **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and Semantic Views Consensus Hashing for Image Set Classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACM MM 2022 (CCF-A类)**.
-- [4] Jiali You, Zhenwen Ren, Quansen Sun, **Yuan Sun**, Xingfeng Li, [Approximate Shifted Laplacian Reconstruction for Multiple Kernel Clustering](https://github.com/sunyuan-cs/sunyuan-cs.github.io/blob/main/docs/4.pdf), **ACM MM 2022 (CCF-A类)**.
+- **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and Semantic Views Consensus Hashing for Image Set Classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACM MM 2022 (CCF-A类)**.
 
-# Before 2021
-- [3] **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face Image Set Classification with Self-weighted Latent Sparse Discriminative Learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications (中科院二区)**.
-- [2] Chao Yang, Zhenwen Ren, Quansen Sun, Mingna Wu, Maowei Yin, **Yuan Sun**, [Joint Correntropy Metric Weighting and Block Diagonal Rgularizer for Robust Multiple Kernel Subspace Clustering](https://www.sciencedirect.com/science/article/pii/S0020025519304803), **Information Sciences (中科院一区)**.
-- [1] **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent Sparse Discriminative Learning for Face Image Set Classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications (EI)**.
+
+# 2021
+- **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face Image Set Classification with Self-weighted Latent Sparse Discriminative Learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications (中科院二区)**.
+
 
 # 🎖 Honors and Awards
 - 四川大学“十佳学术之星”，2024.12.
