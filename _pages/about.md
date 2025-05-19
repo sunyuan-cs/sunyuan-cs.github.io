@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). My research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, I’ve been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
+**Yuan Sun (孙元)** will be a Postdoctoral Research Fellow at the National Key Laboratory of Fundamental Algorithms and Models for Engineering Numerical Simulation, Sichuan University, and work with Prof. [Xiaogang Deng](https://cs.scu.edu.cn/info/1359/16695.htm). In June 2025, he will receive his Ph.D. degree from Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). My research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, I’ve been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
 - **Multi-modal Learning**: It integrates the supplementary and consistent information of multiple modalities for clustering, classification, and retrieval tasks.
 - **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
   
