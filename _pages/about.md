@@ -114,6 +114,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - IEEE Transactions on Big Data.
     - IEEE Transactions on Computational Social Systems.
     - ACM Transactions on Multimedia Computing, Communications and Applications.
+    - ACM Transactions on Autonomous and Adaptive Systems.
     - ACM Transactions on Information Systems.
     - IEEE Journal of Selected Topics in Signal Processing.
     - IEEE Signal Processing Letters.
