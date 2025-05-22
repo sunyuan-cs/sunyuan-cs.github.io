@@ -17,8 +17,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 **Yuan Sun (孙元)** will be a Postdoctoral Research Fellow at the National Key Laboratory of Fundamental Algorithms and Models for Engineering Numerical Simulation, Sichuan University, and work with Prof. [Xiaogang Deng](https://cs.scu.edu.cn/info/1359/16695.htm). In June 2025, he will receive his Ph.D. degree from Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). His research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, he has been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
-- **Multi-modal Learning**: It integrates the supplementary and consistent information of multiple modalities for clustering, classification, and retrieval tasks.
-- **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
+- **Multi-modal Learning**: It investigates multimodal fusion mechanisms or cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources for clustering, classification, and retrieval tasks;
+- **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications, such as nuclear reactor thermal hydraulics.
   
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through Email.
 
@@ -27,7 +27,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
 - \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
 - \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! Congrats to Xingfeng and coauthors! 🎉
-- \[**Publications**\]: Feb. 27, 2025, two papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2025)! Congrats to Siyuan and coauthors! 🎉
+- \[**Publications**\]: Feb. 27, 2025, two papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2025)! Congrats to Siyuan and coauthors! One paper was accepted as Highlight (accept rate=13.5%)!  🎉
 - \[**Services**\]: Feb. 5, 2025, I have been invited to be an Area Chair（AC) for the ACL 2025. 🎉
 - \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
 - \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
