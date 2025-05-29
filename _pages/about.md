@@ -118,6 +118,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - Neural Networks.
     - Information Fusion.
     - Expert Systems With Applications.
+    - Information Processing and Management.
     - Neurocomputing.
     - Neural Computing and Applications.
     - CAAI Transactions on Intelligence Technology.
