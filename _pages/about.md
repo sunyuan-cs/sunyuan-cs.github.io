@@ -121,8 +121,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - Information Processing and Management.
     - Neurocomputing.
     - Neural Computing and Applications.
+    - Knowledge-Based Systems.
     - CAAI Transactions on Intelligence Technology.
     - Data Science and Management.
-    - The Visual Computer.
+
 
 
