@@ -24,6 +24,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
 - \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
 - \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! Congrats to Xingfeng and coauthors! 🎉
@@ -49,7 +50,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2025
-- Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
+- Yuhang Lan, Shilin Xu, Chao Su, Run Ye, Dezhong Peng, **Yuan Sun#**, Multi-view Hashing Classification, **ACM MM 2025 (CCF-A类)**.
+- Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
 - Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, SHE: Streaming-media Hashing Retrieval, **ICML 2025 (CCF-A类)**.
 - Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, Deep Streaming View Clustering, **ICML 2025 (CCF-A类)**.
 - Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks, **IJCAI 2025 (CCF-A类)**.
