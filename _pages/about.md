@@ -85,7 +85,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - 中国人工智能学会教学成果激励计划一类成果.
 - 中国自动化学会科技进步奖二等奖.
 - 四川省计算机学会年度优秀学生论文.
-- 四川大学研究生“十佳学术之星”.
+- 四川大学研究生“十佳学术之星”（10人）.
 - 国家奖学金（连续两次）.
 - NCAA会议最佳论文提名奖.
 - 成都市技术能手.
