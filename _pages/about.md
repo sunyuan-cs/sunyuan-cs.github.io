@@ -80,6 +80,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🎖 Honors and Awards
+- 四川大学“海纳博士后”支持计划 (15人).
 - 中国自动化学会高等教育教学成果评价三等贡献教学成果.
 - 中国人工智能学会教学成果激励计划一类成果.
 - 中国自动化学会科技进步奖二等奖.
