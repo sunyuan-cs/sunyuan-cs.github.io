@@ -81,6 +81,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🎖 Honors and Awards
 - 中国电子学会电子信息教学成果二等奖.
+- 某集团科技进步奖二等奖。
 - 四川大学“海纳博士后”支持计划 (15人).
 - 中国自动化学会高等教育教学成果评价三等贡献教学成果.
 - 中国人工智能学会教学成果激励计划一类成果.
