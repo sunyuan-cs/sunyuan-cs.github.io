@@ -108,6 +108,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     - CVDL 2024.
 
 - Journals:
+    - Journal of Artificial Intelligence & Control Systems (Young Editorial Board Member).
     - IEEE Transactions on Image Processing.
     - IEEE Transactions on Knowledge and Data Engineering.
     - IEEE Transactions on Neural Networks and Learning Systems.
