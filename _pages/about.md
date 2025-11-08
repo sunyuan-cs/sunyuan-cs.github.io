@@ -24,6 +24,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Sep. 18, 2025, Three papers were accepted by NeruIPS 2025! Congrats to Chao, Yanglin, and coauthors! One paper was accepted as Spotlight (accept rate=3.1%)! One paper was accepted as Oral (accept rate=0.36%)!  🎉
 - \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
@@ -50,6 +51,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
+# 2026
+- Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval, **AAAI 2026 (CCF-A类)**.
+- Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels, **AAAI 2026 (CCF-A类)**.
+
 # 2025
 - Yuhang Lan, Shilin Xu, Chao Su, Run Ye, Dezhong Peng, **Yuan Sun#**, Multi-view Hashing Classification, **ACM MM 2025 (CCF-A类)**.
 - Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, CoPINN: Cognitive Physics-informed Neural Network, **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.
@@ -110,6 +115,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 - Journals:
     - Journal of Artificial Intelligence & Control Systems (Young Editorial Board Member).
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence.
     - IEEE Transactions on Image Processing.
     - IEEE Transactions on Knowledge and Data Engineering.
     - IEEE Transactions on Neural Networks and Learning Systems.
