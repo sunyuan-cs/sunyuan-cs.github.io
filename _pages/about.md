@@ -25,7 +25,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🔥 News
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
-- \[**Publications**\]: Sep. 18, 2025, Three papers were accepted by NeruIPS 2025! Congrats to Chao, Yanglin, and coauthors! One paper was accepted as Spotlight (accept rate=3.1%)! One paper was accepted as Oral (accept rate=0.36%)!  🎉
+- \[**Publications**\]: Sep. 18, 2025, two papers were accepted by NeruIPS 2025! Congrats to Yanglin, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
 - \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
 - \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
