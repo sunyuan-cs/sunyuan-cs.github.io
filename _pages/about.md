@@ -25,7 +25,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🔥 News
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
-- \[**Publications**\]: Sep. 18, 2025, two papers were accepted by NeruIPS 2025! Congrats to Yanglin, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
+- \[**Publications**\]: Sep. 18, 2025, three papers were accepted by NeruIPS 2025! Congrats to Yanglin, Chao, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
 - \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
 - \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
@@ -106,7 +106,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   - AC/SPC:
     - ACL 2025, IJCAI 2025.
   - Reviewer:
-    - AAAI 2026, ICLR 2026.
+    - AAAI 2026, ICLR 2026, CVPR 2026, IJCAI 2026, ICML 2026.
     - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025, ICCV 2025, ACM MM 2025.
     - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
