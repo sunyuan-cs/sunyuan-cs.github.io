@@ -24,6 +24,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Sep. 18, 2025, three papers were accepted by NeruIPS 2025! Congrats to Yanglin, Chao, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
 - \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
@@ -52,6 +53,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [5] Qiya song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
+- [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类)**.
+- [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jia-Qi Lin, **Zhenwen Ren#**, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
 - [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval, **AAAI 2026 (CCF-A类)**.
 - [1] Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels, **AAAI 2026 (CCF-A类)**.
 
@@ -88,6 +92,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🎖 Honors and Awards
+- 中国自动化学会科技进步三等奖.
 - 中国电子学会电子信息教学成果二等奖.
 - 某集团科技进步二等奖.
 - 四川大学“海纳博士后”支持计划 (15人).
@@ -106,7 +111,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   - AC/SPC:
     - ACL 2025, IJCAI 2025.
   - Reviewer:
-    - AAAI 2026, ICLR 2026, CVPR 2026, IJCAI 2026, ICML 2026, KDD 2026.
+    - AAAI 2026, ICLR 2026, CVPR 2026, IJCAI 2026, ICML 2026, KDD 2026, ACM MM 2026.
     - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025, ICCV 2025, ACM MM 2025.
     - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
