@@ -53,7 +53,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
-- [5] Qiya song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
+- [5] Qiya Song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
 - [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类)**.
 - [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, **Zhenwen Ren#**, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
 - [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval, **AAAI 2026 (CCF-A类)**.
