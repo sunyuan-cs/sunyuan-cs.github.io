@@ -24,6 +24,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- \[**Publications**\]: Feb. 27, 2026, one papers was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Jiali, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Sep. 18, 2025, three papers were accepted by NeruIPS 2025! Congrats to Yanglin, Chao, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
@@ -53,6 +54,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [6] Jiali Chen, Ruitao Pu, Dezhong Peng, Xiaomin Song, Yingke Chen, **Yuan Sun#**, External Guidance Incomplete Cross-modal Hashing, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [5] Qiya Song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
 - [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类)**.
 - [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, **Zhenwen Ren#**, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
