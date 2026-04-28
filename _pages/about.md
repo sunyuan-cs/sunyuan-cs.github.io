@@ -19,11 +19,22 @@ redirect_from:
 **Yuan Sun (孙元)** is currently a postdoctoral research fellow (postdoc) at the National Key Laboratory of Fundamental Algorithms and Models for Engineering Numerical Simulation, Sichuan University, and works with Prof. [Xiaogang Deng](https://cs.scu.edu.cn/info/1359/16695.htm). He received his Ph.D. degree from Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) , Prof. [Peng Hu](https://penghu-cs.github.io/), and Jian Dai. He received his Master Degree, advised by Prof. [Zhenwen Ren](https://unix8.net/). His research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, he has been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
 - **Multi-modal Learning**: It investigates multimodal fusion mechanisms or cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources for clustering, classification, and retrieval tasks.
 - **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications, such as nuclear reactor thermal hydraulics.
-  
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through Email.
+
+[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文近30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果激励计划一类成果（序4）、中国自动化学会高等教育教学成果评三等贡献教学成果（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的编委（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文近20篇。**
+
+
+**招生要求:** 1.对科研工作富有激情；2.勤奋务实、态度积极；3.有扎实的数学/英语功底。
+
+如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎联系（Email: sunyuan_work@163.com, sunyuan@scu.edu.cn）。
+
+**计划每年辅导2-3名本科生进行科研训练，欢迎有兴趣的同学随时报名！**
+
+
+
 
 
 # 🔥 News
+- \[**Publications**\]: Apr. 28, 2026, honor to serve as Associate Editor for Pattern Recognition (中科院一区).
 - \[**Publications**\]: Feb. 27, 2026, one papers was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Jiali, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
@@ -106,45 +117,25 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - 成都市技术能手.
 
 
-# 🙋 Services 
+# 🙋 Services
+- Journals:
+  - Associate Editor:
+    - Pattern Recognition (2026-).
+  - Young Editorial Board Member:
+    - Journal of Artificial Intelligence & Control Systems.
+  - Reviewer: IEEE TPAMI/TIP/TIFS/TMM/TKDE/TNNLS/TCYB/TCVST/TBD/TCSS/PR...
+
+
+     
 - Conferences:
   - AC/SPC:
+    - NeurIPS 2026.
     - ACL 2025, IJCAI 2025.
+    - ICARM 2024.
   - Reviewer:
     - AAAI 2026, ICLR 2026, CVPR 2026, IJCAI 2026, ICML 2026, KDD 2026, ACM MM 2026.
     - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025, ICCV 2025, ACM MM 2025.
     - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
     - ACM MM 2023, PRCV 2023.
-  - Associate Editor:
-    - ICARM 2024
   - Workshop Chair:
     - CVDL 2024.
-
-- Journals:
-    - Journal of Artificial Intelligence & Control Systems (Young Editorial Board Member).
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence.
-    - IEEE Transactions on Image Processing.
-    - IEEE Transactions on Knowledge and Data Engineering.
-    - IEEE Transactions on Neural Networks and Learning Systems.
-    - IEEE Transactions on Multimedia.
-    - IEEE Transactions on Circuits and Systems for Video Technology.
-    - IEEE Transactions on Big Data.
-    - IEEE Transactions on Computational Social Systems.
-    - ACM Transactions on Multimedia Computing, Communications and Applications.
-    - ACM Transactions on Autonomous and Adaptive Systems.
-    - ACM Transactions on Information Systems.
-    - IEEE Journal of Selected Topics in Signal Processing.
-    - IEEE Signal Processing Letters.
-    - Pattern Recognition.
-    - Neural Networks.
-    - Information Fusion.
-    - Expert Systems With Applications.
-    - Information Processing and Management.
-    - Neurocomputing.
-    - Neural Computing and Applications.
-    - Knowledge-Based Systems.
-    - CAAI Transactions on Intelligence Technology.
-    - Data Science and Management.
-
-
-
