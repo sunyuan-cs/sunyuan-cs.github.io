@@ -71,7 +71,7 @@ redirect_from:
 - [6] Jiali Chen, Ruitao Pu, Dezhong Peng, Xiaomin Song, Yingke Chen, **Yuan Sun#**, External Guidance Incomplete Cross-modal Hashing, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [5] Qiya Song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
 - [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类), Highlight**.
-- [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, **Zhenwen Ren#**, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
+- [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, Zhenwen Ren#, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
 - [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, [Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/39567), **AAAI 2026 (CCF-A类)**. [Code](https://github.com/perquisite/NIRNL)
 - [1] Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, [Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760), **AAAI 2026 (CCF-A类), Oral**. [Code](https://github.com/Rose-bud/ATCH)
 
