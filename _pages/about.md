@@ -20,7 +20,7 @@ redirect_from:
 - **Multi-modal Learning**: It investigates multimodal fusion mechanisms or cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources for clustering, classification, and retrieval tasks.
 - **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications, such as nuclear reactor thermal hydraulics.
 
-[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文近30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果一等奖（序4）、中国自动化学会高等教育教学成果三等奖（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文近20篇。**
+[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight, ICML 2026 Spotlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果一等奖（序4）、中国自动化学会高等教育教学成果三等奖（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文近20篇。**
 
 
 **招生要求:** 1.对科研工作富有激情；2.勤奋务实、态度积极；3.有扎实的数学/英语功底。
@@ -34,9 +34,10 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: May. 1, 2026, three papers were accepted by ICML 2026! Congrats to Chao, Xincheng, and Xingfeng! One paper was accepted as Spotlight (accept rate=2.2%)!  🎉
 - \[**Publications**\]: Apr. 28, 2026, honor to serve as Associate Editor for Pattern Recognition (中科院一区).
 - \[**Publications**\]: Feb. 27, 2026, one papers was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Jiali, Ruitao, and coauthors! 🎉
-- \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉
+- \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉 One paper was accepted as Highlight 🎉
 - \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
 - \[**Publications**\]: Sep. 18, 2025, three papers were accepted by NeruIPS 2025! Congrats to Yanglin, Chao, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
 - \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
@@ -65,22 +66,24 @@ redirect_from:
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [8] Xincheng Sun, Ruitao Pu, Guangsi Shi, Zhenwen Ren, Peng Hu, **Yuan Sun#**, Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels, **ICML 2026 (CCF-A类), Spotlight**. 
+- [7] Chao Su, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Correspondence Cognitive Learning for Multi-Modal Object Re-Identification, **ICML 2026 (CCF-A类)**.
 - [6] Jiali Chen, Ruitao Pu, Dezhong Peng, Xiaomin Song, Yingke Chen, **Yuan Sun#**, External Guidance Incomplete Cross-modal Hashing, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [5] Qiya Song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
-- [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类)**.
+- [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类), Highlight**.
 - [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, **Zhenwen Ren#**, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
-- [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval, **AAAI 2026 (CCF-A类)**.
-- [1] Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels, **AAAI 2026 (CCF-A类)**.
+- [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, [Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/39567), **AAAI 2026 (CCF-A类)**. [Code](https://github.com/perquisite/NIRNL)
+- [1] Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, [Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760), **AAAI 2026 (CCF-A类), Oral**. [Code](https://github.com/Rose-bud/ATCH)
 
 # 2025
-- [11] Yuhang Lan, Shilin Xu, Chao Su, Run Ye, Dezhong Peng, **Yuan Sun#**, [Multi-view Hashing Classification](https://dl.acm.org/doi/abs/10.1145/3746027.3755692), **ACM MM 2025 (CCF-A类)**.[Code](https://github.com/Yuhang-lan04/MHC)
-- [10] Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [CoPINN: Cognitive Physics-informed Neural Network](https://openreview.net/pdf?id=4vAa0A98xI), **ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%)**.[Code](https://github.com/siyuancncd/CoPINN?tab=readme-ov-file)
-- [9] Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**,[SHE: Streaming-media Hashing Retrieval](https://openreview.net/pdf?id=JqLKV0L5hM), **ICML 2025 (CCF-A类)**.[Code](https://github.com/perquisite/SHE)
-- [8] Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, [Deep Streaming View Clustering](https://openreview.net/pdf?id=GkVirCa8wA), **ICML 2025 (CCF-A类)**[Code](https://github.com/hl-yuan/DSVC)
-- [7] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://www.ijcai.org/proceedings/2025/0720.pdf), **IJCAI 2025 (CCF-A类)**.[Code](https://github.com/Willy1005/2025-IJCAI-RDML)
-- [6] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, [Robust Graph Contrastive Learning for Incomplete Multi-view Clustering](https://www.ijcai.org/proceedings/2025/810), **IJCAI 2025 (CCF-A类)**.[Code](https://github.com/DYZ163/RGCL)
+- [11] Yuhang Lan, Shilin Xu, Chao Su, Run Ye, Dezhong Peng, **Yuan Sun#**, [Multi-view Hashing Classification](https://dl.acm.org/doi/abs/10.1145/3746027.3755692), **ACM MM 2025 (CCF-A类)**. [Code](https://github.com/Yuhang-lan04/MHC)
+- [10] Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [CoPINN: Cognitive Physics-informed Neural Network](https://openreview.net/pdf?id=4vAa0A98xI), **ICML 2025 (CCF-A类), Spotlight**. [Code](https://github.com/siyuancncd/CoPINN?tab=readme-ov-file)
+- [9] Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**,[SHE: Streaming-media Hashing Retrieval](https://openreview.net/pdf?id=JqLKV0L5hM), **ICML 2025 (CCF-A类)**. [Code](https://github.com/perquisite/SHE)
+- [8] Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, [Deep Streaming View Clustering](https://openreview.net/pdf?id=GkVirCa8wA), **ICML 2025 (CCF-A类)** [Code](https://github.com/hl-yuan/DSVC)
+- [7] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://www.ijcai.org/proceedings/2025/0720.pdf), **IJCAI 2025 (CCF-A类)**. [Code](https://github.com/Willy1005/2025-IJCAI-RDML)
+- [6] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, [Robust Graph Contrastive Learning for Incomplete Multi-view Clustering](https://www.ijcai.org/proceedings/2025/810), **IJCAI 2025 (CCF-A类)**. [Code](https://github.com/DYZ163/RGCL)
 - [5] Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for image set classification, **Neural Networks (中科院二区)**.
-- [4] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html), **CVPR 2025 (CCF-A类)**.[Code](https://github.com/sunyuan-cs/2025-CVPR-ROLL)
+- [4] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html), **CVPR 2025 (CCF-A类), Highlight**. [Code](https://github.com/sunyuan-cs/2025-CVPR-ROLL)
 - [3] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, [Prototype Matching Learning for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/document/10847794), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. **(ESI Highly Cited Paper)**. [Code](https://github.com/hl-yuan/PMIMC)
 - [2] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
 - [1] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
