@@ -34,6 +34,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: May. 16, 2026, one paper was accepted by KDD 2026! Congrats to Ruixuan and Wenyuan!  🎉
 - \[**Publications**\]: May. 1, 2026, three papers were accepted by ICML 2026! Congrats to Chao, Xincheng, and Xingfeng! One paper was accepted as Spotlight (accept rate=2.2%)!  🎉
 - \[**Publications**\]: Apr. 28, 2026, honor to serve as Associate Editor for Pattern Recognition (中科院一区).
 - \[**Publications**\]: Feb. 27, 2026, one papers was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Jiali, Ruitao, and coauthors! 🎉
@@ -66,6 +67,7 @@ redirect_from:
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [9] Ruixuan Meng, Wenyuan Wu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Xiaogang Deng, Divide and Conquer: Region Self-paced Physics-Informed Neural Networks, **KDD 2026 (CCF-A类)**. 
 - [8] Xincheng Sun, Ruitao Pu, Guangsi Shi, Zhenwen Ren, Peng Hu, **Yuan Sun#**, Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels, **ICML 2026 (CCF-A类), Spotlight**. 
 - [7] Chao Su, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Correspondence Cognitive Learning for Multi-Modal Object Re-Identification, **ICML 2026 (CCF-A类)**.
 - [6] Jiali Chen, Ruitao Pu, Dezhong Peng, Xiaomin Song, Yingke Chen, **Yuan Sun#**, External Guidance Incomplete Cross-modal Hashing, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
