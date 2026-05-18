@@ -20,7 +20,7 @@ redirect_from:
 - **Multi-modal Learning**: It investigates multimodal fusion mechanisms or cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources for clustering, classification, and retrieval tasks.
 - **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications, such as nuclear reactor thermal hydraulics.
 
-[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight, ICML 2026 Spotlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果一等奖（序4）、中国自动化学会高等教育教学成果三等奖（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文近20篇。**
+[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight, ICML 2026 Spotlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果一等奖（序4）、中国自动化学会高等教育教学成果三等奖（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文20余篇。**
 
 
 **招生要求:** 1.对科研工作富有激情；2.勤奋务实、主动性高；3.有扎实的数学/英语功底。
@@ -34,6 +34,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: May. 18, 2026, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Ruitao! 🎉
 - \[**Publications**\]: May. 16, 2026, one paper was accepted by KDD 2026! Congrats to Ruixuan and Wenyuan!  🎉
 - \[**Publications**\]: May. 1, 2026, three papers were accepted by ICML 2026! Congrats to Chao, Xincheng, and Xingfeng! One paper was accepted as Spotlight (accept rate=2.2%)!  🎉
 - \[**Publications**\]: Apr. 28, 2026, honor to serve as Associate Editor for Pattern Recognition (中科院一区).
@@ -67,6 +68,7 @@ redirect_from:
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [10] Ruitao Pu, Chao Su, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, NOTO: Noise-Tolerate Evidential Learning for Open-Set Cross-modal Retrieval，**IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [9] Ruixuan Meng, Wenyuan Wu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Xiaogang Deng, Divide and Conquer: Region Self-paced Physics-Informed Neural Networks, **KDD 2026 (CCF-A类)**. 
 - [8] Xincheng Sun, Ruitao Pu, Guangsi Shi, Zhenwen Ren, Peng Hu, **Yuan Sun#**, Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels, **ICML 2026 (CCF-A类), Spotlight**. 
 - [7] Chao Su, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Correspondence Cognitive Learning for Multi-Modal Object Re-Identification, **ICML 2026 (CCF-A类)**.
