@@ -34,7 +34,7 @@ redirect_from:
 
 
 # 🔥 News
-- \[**Publications**\]: Jun. 26, 2026, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Ruitao! 🎉
+- \[**Publications**\]: Jun. 26, 2026, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Honglin! 🎉
 - \[**Publications**\]: May. 18, 2026, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Ruitao! 🎉
 - \[**Publications**\]: May. 16, 2026, one paper was accepted by KDD 2026! Congrats to Ruixuan and Wenyuan!  🎉
 - \[**Publications**\]: May. 1, 2026, three papers were accepted by ICML 2026! Congrats to Chao, Xincheng, and Xingfeng! One paper was accepted as Spotlight (accept rate=2.2%)!  🎉
