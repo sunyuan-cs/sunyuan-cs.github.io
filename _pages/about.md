@@ -34,6 +34,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Jul. 10, 2026, three papers were accepted by ACM MM 2026! Congrats to Chuhan! 🎉
 - \[**Publications**\]: Jun. 26, 2026, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Honglin! 🎉
 - \[**Publications**\]: May. 18, 2026, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Ruitao! 🎉
 - \[**Publications**\]: May. 16, 2026, one paper was accepted by KDD 2026! Congrats to Ruixuan and Wenyuan!  🎉
@@ -69,6 +70,7 @@ redirect_from:
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [12] Chuhan Wang, Yuning Fu, Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Meta-Learning Guided Imputation for Incomplete Multi-View Classification, **ACM MM 2026 (CCF-A类)**. 
 - [11] Honglin Yuan, **Yuan Sun#**, Xingfeng Li, Xi Wu, Xiaojian You, Zhenwen Ren#, Adaptive Hardness-Driven Dictionary Distillation for Incomplete Streaming View Clustering，**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (CCF-A类)**.
 - [10] Ruitao Pu, Chao Su, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, NOTO: Noise-Tolerate Evidential Learning for Open-Set Cross-modal Retrieval，**IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
 - [9] Ruixuan Meng, Wenyuan Wu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Xiaogang Deng, Divide and Conquer: Region Self-paced Physics-Informed Neural Networks, **KDD 2026 (CCF-A类)**. 
