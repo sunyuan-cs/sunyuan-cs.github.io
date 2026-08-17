@@ -20,7 +20,7 @@ redirect_from:
 - **Multi-modal Intelligence**: Multi-modal Agents, Multimodal Large Language Model, Cross-modal Retrieval, Multi-Modal Re-Identification, Infrared and Visible Image Fusion, Multi-modal UAV Object Detection.
 - **AI for Science**: PINN, Neural Operator, Multi-modal CAD Generation, Scientific Equation Discovery.
 
-[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，四川大学工程数值模拟基础算法与模型全国重点实验室研究员，硕士生导师，四川大学“海纳博士后”。主要研究方向为多模态智能（多模态学习、图像融合、智能机器人等）与AI for Science（智能科学计算、自主科学发现等）。近年来，以第一作者或通讯作者在TPAMI、TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文30余篇，入选ESI高被引2篇，10余篇入选Oral/Spotlight/Highlight。获得中国自动化学会科技进步奖二等奖、三等奖、中国兵器装备集团科技进步二等奖、中国人工智能学会教学成果一等奖、中国电子学会教学成果二等奖、中国自动化学会教学成果三等奖、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持各类项目10余项，授权发明专利共10余项。担任Pattern Recognition(中科院一区)的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任NeurIPS/AAAI/ACL/IJCAI等CCF-A类会议领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文20余篇。**
+[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，四川大学工程数值模拟基础算法与模型全国重点实验室研究员，硕士生导师，四川大学“海纳博士后”。绵阳市五八机器人科技有限责任公司首席青年科学家。主要研究方向为多模态智能（多模态学习、智能机器人等）与AI for Science（智能科学计算、自主科学发现等）。近年来，以第一作者或通讯作者在TPAMI、TIP、TKDE、CVPR、ICML、KDD等人工智能领域CCF-A类期刊/会议上发表论文30余篇，入选ESI高被引2篇，10余篇入选Oral/Spotlight/Highlight。获得中国自动化学会科技进步奖二等奖、三等奖、中国兵器装备集团科技进步二等奖、中国人工智能学会教学成果一等奖、中国电子学会教学成果二等奖、中国自动化学会教学成果三等奖、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持各类项目10余项，授权发明专利共10余项。担任Pattern Recognition(中科院一区)的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任NeurIPS/AAAI/ACL/IJCAI等CCF-A类会议领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文20余篇。**
 
 
 **招生要求:** 对科研工作富有激情、主动性高！
