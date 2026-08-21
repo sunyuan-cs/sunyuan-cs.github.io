@@ -25,7 +25,7 @@ redirect_from:
 
 **招生要求:** 对科研工作富有激情、主动性高！
 
-如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎通过电子邮件（Email: sunyuan_work@163.com）或<a href="https://github.com/sunyuan-cs/sunyuan-cs.github.io/blob/main/images/wechat.png">微信</a>与我联系。
+如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎通过电子邮件（Email: sunyuan_work@163.com）或<a href="https://sunyuan-cs.github.io/images/wechat.png">微信</a>与我联系。
 
 **每年招收2-4名硕士研究生，辅导3-5名本科生进行科研训练，欢迎有兴趣的同学随时报名！**
 
