@@ -34,6 +34,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Oct. 5, 2026, one paper was accepted by IEEE Transactions on Multimedia (TMM)! Congrats to Junning! 🎉 
 - \[**Publications**\]: Sep. 25, 2026, one paper was accepted by NeurIPS 2026! Congrats to Shuying! 🎉
 - \[**Publications**\]: Aug. 18, 2026, one paper was accepted by Pattern Recognition! Congrats to Kaiming! 🎉
 - \[**Publications**\]: Jul. 10, 2026, three papers were accepted by ACM MM 2026! Congrats to Chuhan! 🎉
@@ -72,6 +73,7 @@ redirect_from:
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
 (# denotes the corresponding author)
 # 2026
+- [15] Junning Zhang, Ming Zhang#, **Yuan Sun#**, Xiaohua Xie, Teng Cheng, Jianhuang Lai, Confidence-Guided Depth–Semantic Alignment for Cross-Domain Monocular 3D Object Detection, **IEEE Transactions on Multimedia (TMM) (CCF-A类)**.
 - [14] Shuying Li, Chao Su, Yongxiang Li, Peng Hu, Dezhong Peng, **Yuan Sun#**, LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification, **NeurIPS 2026 (CCF-A类)**.
 - [13] Kaiming Liu, Rui Wang, Chaoqun Zheng, Hanghang Liu, Leyi Zhang, Guohao Zong, Di Wang, Weihua Feng#, **Yuan Sun#**, Learning Relative Abnormal Relations for Generalist Anomaly Detection, **Pattern Recognition (中科院一区)**.
 - [12] Chuhan Wang, Yuning Fu, Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Meta-Learning Guided Imputation for Incomplete Multi-View Classification, **ACM MM 2026 (CCF-A类)**. 
