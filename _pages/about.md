@@ -122,7 +122,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- World’s Top 2% Scientists (全球前2%顶尖科学家榜单)
+- World’s Top 2% Scientists (全球前2%顶尖科学家榜单)。
 - 中国自动化学会科技进步三等奖.
 - 中国电子学会电子信息教学成果二等奖.
 - 中国兵器装备集团科技进步二等奖.
